@@ -1,0 +1,16 @@
+{
+  "name": "create-motion-animation-library",
+  "version": "1.0.1",
+  "description": "A factory for creating reusable motion animations",
+  "main": "dist/index.js",
+  "repository": "https://github.com/Ayomits/create-motion-animation-library",
+  "scripts": {
+    "build": "npx tsc --build"
+  },
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "motion": "^12.22.0",
+    "typescript": "^5.8.3"
+  }
+}
