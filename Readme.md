@@ -12,13 +12,13 @@
   > npm
 
   ```bash
-  npm install @ayo/create-motion-animation-library
+  npm install create-motion-animation-library
   ```
 
   > yarn
 
   ```bash
-  yarn add @ayo/create-motion-animation-library
+  yarn add create-motion-animation-library
   ```
 
   > copy-paste way <br>
